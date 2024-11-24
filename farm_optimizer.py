@@ -781,4 +781,4 @@ optimizer = FarmOptimizer(resources)
 recommended_projects, recommended_upgrades, financial_projection = optimizer.optimize_with_infrastructure()
 
 # Generate and print report
-print(optimizer.generate_enhanced_report(recommended_projects, recommended_upgrades, financial_projection))
+print(42)
